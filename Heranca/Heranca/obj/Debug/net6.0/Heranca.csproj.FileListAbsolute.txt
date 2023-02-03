@@ -1,0 +1,15 @@
+C:\Users\ligia.azevedo\Documents\CursoC#Completo\ProjetosIntermediario\Heranca\Heranca\bin\Debug\net6.0\Heranca.exe
+C:\Users\ligia.azevedo\Documents\CursoC#Completo\ProjetosIntermediario\Heranca\Heranca\bin\Debug\net6.0\Heranca.deps.json
+C:\Users\ligia.azevedo\Documents\CursoC#Completo\ProjetosIntermediario\Heranca\Heranca\bin\Debug\net6.0\Heranca.runtimeconfig.json
+C:\Users\ligia.azevedo\Documents\CursoC#Completo\ProjetosIntermediario\Heranca\Heranca\bin\Debug\net6.0\Heranca.dll
+C:\Users\ligia.azevedo\Documents\CursoC#Completo\ProjetosIntermediario\Heranca\Heranca\bin\Debug\net6.0\Heranca.pdb
+C:\Users\ligia.azevedo\Documents\CursoC#Completo\ProjetosIntermediario\Heranca\Heranca\obj\Debug\net6.0\Heranca.csproj.AssemblyReference.cache
+C:\Users\ligia.azevedo\Documents\CursoC#Completo\ProjetosIntermediario\Heranca\Heranca\obj\Debug\net6.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ligia.azevedo\Documents\CursoC#Completo\ProjetosIntermediario\Heranca\Heranca\obj\Debug\net6.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\ligia.azevedo\Documents\CursoC#Completo\ProjetosIntermediario\Heranca\Heranca\obj\Debug\net6.0\Heranca.AssemblyInfo.cs
+C:\Users\ligia.azevedo\Documents\CursoC#Completo\ProjetosIntermediario\Heranca\Heranca\obj\Debug\net6.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\ligia.azevedo\Documents\CursoC#Completo\ProjetosIntermediario\Heranca\Heranca\obj\Debug\net6.0\Heranca.dll
+C:\Users\ligia.azevedo\Documents\CursoC#Completo\ProjetosIntermediario\Heranca\Heranca\obj\Debug\net6.0\refint\Heranca.dll
+C:\Users\ligia.azevedo\Documents\CursoC#Completo\ProjetosIntermediario\Heranca\Heranca\obj\Debug\net6.0\Heranca.pdb
+C:\Users\ligia.azevedo\Documents\CursoC#Completo\ProjetosIntermediario\Heranca\Heranca\obj\Debug\net6.0\Heranca.genruntimeconfig.cache
+C:\Users\ligia.azevedo\Documents\CursoC#Completo\ProjetosIntermediario\Heranca\Heranca\obj\Debug\net6.0\ref\Heranca.dll
